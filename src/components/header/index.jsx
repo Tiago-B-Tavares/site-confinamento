@@ -6,7 +6,7 @@ function Header() {
             {/* <div>
                 <img src="/imagens/logo1.png" alt="Logo" className="h-8 sm:h-12 w-auto" />
             </div> */}
-            <ul className='flex gap-6 flex-col sm:flex-row'>
+            <ul className='flex gap-6 flex-roll sm:flex-col'>
                 <li className='hover:text-[#5ae466] transition  duration-500 ease-in-out border-b-2 border-[#5ae466] text-base'>
                     <Link
                         to="home"
