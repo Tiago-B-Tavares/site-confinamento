@@ -4,7 +4,7 @@ export default function HeroSection() {
   return (
     <section  id="home" className="relative h-[100vh] overflow-hidden">
       {/* Parallax Image - Fundo */}
-      <Parallax speed={-20} className="absolute inset-0 ">
+      <Parallax speed={-1000} className="absolute inset-0 ">
         <img
           src="/imagens/Ceva-gado-brahman-alimentando-se-em-palete-dentro-do-confinamento.webp"
           alt="Hero"
